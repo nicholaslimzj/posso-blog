@@ -1,0 +1,18 @@
+{
+  "totalPosts": 2,
+  "processedPosts": 2,
+  "imagesDownloaded": {
+    "totalDownloaded": 2,
+    "downloadedImages": [
+      [
+        "https://static.wixstatic.com/media/9782fc_0884ac828a654a9f998eb10cb8cd0920~mv2.png",
+        "images/9782fc0884ac828a654a9f998eb10cb8cd0920mv2-n34pqz.png"
+      ],
+      [
+        "https://static.wixstatic.com/media/9782fc_7749558cb1ea47d0bf6b47a401154811~mv2.png",
+        "images/9782fc7749558cb1ea47d0bf6b47a401154811mv2-3bqf8l.png"
+      ]
+    ]
+  },
+  "generatedAt": "2025-09-14T23:15:06.409Z"
+}
