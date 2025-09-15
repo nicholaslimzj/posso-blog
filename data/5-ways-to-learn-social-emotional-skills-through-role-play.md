@@ -3,7 +3,6 @@ title: "5 Ways To Learn Social Emotional Skills Through Role Play"
 excerpt: "As children grow and develop, it is essential to teach them social and emotional skills. These skills help them interact with others..."
 date: "2023-04-10T08:03:22.128Z"
 lastModified: "2023-04-10T08:03:22.128Z"
-slug: "5-ways-to-learn-social-emotional-skills-through-role-play"
 wixId: "33b99628-b12c-4acb-9cad-db2916c050c0"
 thumbnail: "./images/9782fc76cff33968e4401589c49a5088dfb778mv2-ltbdk1.png"
 ---

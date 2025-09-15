@@ -3,7 +3,6 @@ title: "5 Ways Of Positive Reinforcement For Children"
 excerpt: "Giving verbal praise for positive behaviour is important because it encourages children to continue to make good choices and develop a..."
 date: "2023-02-16T05:50:00.842Z"
 lastModified: "2023-02-16T05:50:00.842Z"
-slug: "5-ways-of-positive-reinforcement-for-children"
 wixId: "f1e7d4a1-16e6-4bbf-9214-a8ff4d70a9a6"
 thumbnail: "./images/9782fc18a6878c80de4be3ab3e0a93f5529496mv2-c69ik7.png"
 ---

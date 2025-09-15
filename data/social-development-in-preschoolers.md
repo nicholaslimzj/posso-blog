@@ -3,7 +3,6 @@ title: "Social Development in Preschoolers"
 excerpt: "During your child's preschool-age years, they will learn a lot about themselves and how to interact with others during this time. Your..."
 date: "2022-08-15T06:42:43.880Z"
 lastModified: "2022-08-15T06:42:43.880Z"
-slug: "social-development-in-preschoolers"
 wixId: "f0d0cd7e-0625-4186-bc90-f64c5ccd9a3c"
 thumbnail: "./images/9782fc697440872bfb4be1b0e08355dfc23aacmv2-uvdwfa.jpg"
 ---

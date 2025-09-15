@@ -3,7 +3,6 @@ title: "Exploring The Benefits of Outdoor Play and Nature Education For Preschoo
 excerpt: "As a parent or caregiver of a preschooler, you may wonder about the importance of outdoor play and nature education. In recent years,..."
 date: "2023-05-24T01:30:40.332Z"
 lastModified: "2023-05-24T01:30:40.332Z"
-slug: "exploring-the-benefits-of-outdoor-play-and-nature-education-for-preschoolers"
 wixId: "283c0d61-c2b0-43e6-a818-c49717ae89cc"
 thumbnail: "./images/9782fc99b575f24c8c49ec8af95f0821943774mv2-o58xee.png"
 ---

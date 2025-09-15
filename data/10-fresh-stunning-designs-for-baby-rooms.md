@@ -3,7 +3,6 @@ title: "Understanding 7 Challenging Toddler Behaviours"
 excerpt: "Have you had a moment where your child is hitting their stride with the terrible twos and probably a few other toddler behaviours that..."
 date: "2021-08-12T02:03:18.167Z"
 lastModified: "2021-10-19T11:49:01.877Z"
-slug: "10-fresh-stunning-designs-for-baby-rooms"
 categories:
   - 219e0c9f-620f-4ed2-b626-c4103acf6a95
 tags:

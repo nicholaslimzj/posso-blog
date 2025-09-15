@@ -3,7 +3,6 @@ title: "Top 3 Benefits Of Learning Through Play"
 excerpt: "Research shows that learning through play is an important part of a child’s development. Though ensuring your child has enough play time..."
 date: "2021-10-19T11:07:18.039Z"
 lastModified: "2021-10-19T11:07:18.039Z"
-slug: "top-3-benefits-of-learning-through-play"
 wixId: "66431407-3e21-4400-b4c4-e3aa7f954cc4"
 thumbnail: "./images/9782fc8f23e2b550c0466fb7df482ff459dd02mv2-go2fao.jpg"
 ---

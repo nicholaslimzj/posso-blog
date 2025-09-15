@@ -3,7 +3,6 @@ title: "Using your values to raise caring, responsible & resilient children"
 excerpt: "Values are extremely important in parenting since they profoundly influence all behaviours and attitudes, as well as our decisions and..."
 date: "2022-07-14T08:58:03.527Z"
 lastModified: "2022-07-14T08:58:03.527Z"
-slug: "using-your-values-to-raise-caring-responsible-resilient-children"
 wixId: "79f4cc02-da3e-4c6e-a0c7-e28e509b7138"
 thumbnail: "./images/9782fca5925289398c4ab48418cbc0b1213583mv2-mkd95r.png"
 ---

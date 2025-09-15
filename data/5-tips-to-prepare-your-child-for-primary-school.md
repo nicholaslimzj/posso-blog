@@ -3,7 +3,6 @@ title: "5 Tips To Prepare Your Child For Primary School"
 excerpt: "Transitioning from preschool to primary school in Singapore can be daunting. Anyone can be thrown off by new teachers, new friends, and..."
 date: "2021-12-08T08:26:27.252Z"
 lastModified: "2021-12-08T08:26:27.252Z"
-slug: "5-tips-to-prepare-your-child-for-primary-school"
 wixId: "319ca518-4437-421e-a173-6ba893af14ff"
 thumbnail: "./images/9782fc8796db40e71d4bf69aa5347f160cc588mv2-sh5icb.png"
 ---

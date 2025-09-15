@@ -3,7 +3,6 @@ title: "Grocery Store Activities For Kids"
 excerpt: "Bringing your children to shop for groceries can be beneficial if you make it fun! It encourages your child to ask good questions about..."
 date: "2021-09-10T15:43:44.527Z"
 lastModified: "2021-10-19T11:56:34.410Z"
-slug: "grocery-store-activities-for-kids"
 categories:
   - 219e0c9f-620f-4ed2-b626-c4103acf6a95
 wixId: "b53041bf-ae5b-4b47-b4c2-c52656b2b4e7"

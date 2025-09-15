@@ -3,7 +3,6 @@ title: "Teaching Children To Help Others"
 excerpt: "How do you teach children the importance of helping others? Modeling kindness, having discussions about valuing those around us, reading..."
 date: "2021-09-22T10:57:26.856Z"
 lastModified: "2021-10-19T11:06:38.612Z"
-slug: "teaching-children-to-help-others"
 wixId: "5144e759-fd57-4432-857a-995252bb6472"
 thumbnail: "./images/9782fc774d32135b1844e3831eb63362f24f36mv2-70c7s9.jpg"
 ---

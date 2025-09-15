@@ -3,7 +3,6 @@ title: "10 Interesting Facts About Early Childhood Education"
 excerpt: "Are you expecting a new bundle of joy in your life? Perhaps you're already watching your child develop and discover the world! Whatever..."
 date: "2022-06-08T14:11:13.414Z"
 lastModified: "2022-06-08T14:11:13.414Z"
-slug: "10-interesting-facts-about-early-childhood-education"
 wixId: "39bf8440-a248-4633-a307-f31afdc29f16"
 thumbnail: "./images/9782fc3b7749e9587a43bbbf5bb62b7242be98mv2-tn0y94.jpg"
 ---

@@ -3,7 +3,6 @@ title: "Transitioning to Primary School: Managing the Nervousness"
 excerpt: "Starting primary school is a significant milestone in a child's life. It marks the beginning of their educational journey and introduces..."
 date: "2023-05-25T04:56:57.291Z"
 lastModified: "2023-05-25T05:17:45.894Z"
-slug: "transitioning-to-kindergarten-managing-the-nervousness"
 wixId: "0c9d1151-bb52-4884-bb9e-7ab9b53e8478"
 thumbnail: "./images/9782fc0884ac828a654a9f998eb10cb8cd0920mv2-n34pqz.png"
 ---

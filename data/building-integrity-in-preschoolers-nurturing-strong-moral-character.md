@@ -3,7 +3,6 @@ title: "Building Integrity in Preschoolers: Nurturing Strong Moral Character"
 excerpt: "In the formative years of a child's life, the seeds of integrity are sown, laying the foundation for their moral compass. Preschoolers,..."
 date: "2024-02-23T06:49:46.635Z"
 lastModified: "2024-02-23T06:49:46.635Z"
-slug: "building-integrity-in-preschoolers-nurturing-strong-moral-character"
 wixId: "995648f5-235b-46a7-9eb0-c503362c18ac"
 thumbnail: "./images/9782fc7749558cb1ea47d0bf6b47a401154811mv2-3bqf8l.png"
 ---
