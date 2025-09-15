@@ -5,6 +5,7 @@ date: "2021-12-13T15:10:07.911Z"
 lastModified: "2021-12-13T15:10:07.911Z"
 slug: "5-ways-to-boost-your-child-s-mental-health"
 wixId: "d35cfc1a-9e2b-4d1d-b807-d81e7d9c9fe0"
+thumbnail: "./images/9782fc5b7f614f1ba143b18cf571593c8b971amv2-1b1138.png"
 ---
 
 ![](./images/9782fc5b7f614f1ba143b18cf571593c8b971amv2-1b1138.png)

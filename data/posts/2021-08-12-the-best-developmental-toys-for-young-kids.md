@@ -7,6 +7,7 @@ slug: "the-best-developmental-toys-for-young-kids"
 categories:
   - 219e0c9f-620f-4ed2-b626-c4103acf6a95
 wixId: "6cb6247f-f122-46e6-9207-480d76d7b565"
+thumbnail: "./images/9782fc93142f7c5e8a43f6a849ac62a42a1a88mv2-cuv3rp.jpg"
 ---
 
 ![](./images/9782fc93142f7c5e8a43f6a849ac62a42a1a88mv2-cuv3rp.jpg)

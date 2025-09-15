@@ -5,6 +5,7 @@ date: "2023-05-24T01:29:46.836Z"
 lastModified: "2023-05-24T01:29:46.836Z"
 slug: "the-benefits-of-practicing-mindfulness-with-children"
 wixId: "96bfe14d-fc2c-4170-80dc-0ac102c92bba"
+thumbnail: "./images/9782fc5a4f2b93c8034fa7bef6c62d2a268249mv2-7oe4wy.png"
 ---
 
 ![](./images/9782fc5a4f2b93c8034fa7bef6c62d2a268249mv2-7oe4wy.png)

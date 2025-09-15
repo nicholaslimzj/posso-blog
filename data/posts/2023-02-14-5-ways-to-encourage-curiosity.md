@@ -5,6 +5,7 @@ date: "2023-02-14T04:49:12.763Z"
 lastModified: "2023-02-14T04:49:12.763Z"
 slug: "5-ways-to-encourage-curiosity"
 wixId: "0d3d1ebf-6abb-4366-acef-9a4b82acd5f6"
+thumbnail: "./images/9782fc78fa12a1f5bc42aa9d257e1af281ff2fmv2-3xkde4.png"
 ---
 
 ![](./images/9782fc78fa12a1f5bc42aa9d257e1af281ff2fmv2-3xkde4.png)

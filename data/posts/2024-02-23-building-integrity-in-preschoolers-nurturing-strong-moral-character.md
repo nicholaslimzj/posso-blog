@@ -5,6 +5,7 @@ date: "2024-02-23T06:49:46.635Z"
 lastModified: "2024-02-23T06:49:46.635Z"
 slug: "building-integrity-in-preschoolers-nurturing-strong-moral-character"
 wixId: "995648f5-235b-46a7-9eb0-c503362c18ac"
+thumbnail: "./images/9782fc7749558cb1ea47d0bf6b47a401154811mv2-3bqf8l.png"
 ---
 
 ![](./images/9782fc7749558cb1ea47d0bf6b47a401154811mv2-3bqf8l.png)

@@ -5,6 +5,7 @@ date: "2021-11-23T07:17:00.174Z"
 lastModified: "2021-11-23T07:30:24.359Z"
 slug: "5-daily-activities-to-encourage-independence-in-preschoolers"
 wixId: "cb9b31ec-e753-4fb6-8127-56848ac02f95"
+thumbnail: "./images/9782fcebd6d87552dc42e193598b6ae934c9a8mv2-8mfqwo.png"
 ---
 
 ![](./images/9782fcebd6d87552dc42e193598b6ae934c9a8mv2-8mfqwo.png)

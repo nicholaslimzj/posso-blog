@@ -12,6 +12,7 @@ tags:
   - e33c907a-de4d-475a-8e1d-34f0283ee17e
   - 5e732140-4c74-43d2-bd84-a93baffc0950
 wixId: "47a8dc7d-bed0-4d3a-b2fc-21d8a2765ce4"
+thumbnail: "./images/toddlers-terrible-twos-xvmi9k.png"
 ---
 
 ![Toddler's Terrible Twos](./images/toddlers-terrible-twos-xvmi9k.png)

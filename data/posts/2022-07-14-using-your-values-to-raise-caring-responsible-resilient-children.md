@@ -5,6 +5,7 @@ date: "2022-07-14T08:58:03.527Z"
 lastModified: "2022-07-14T08:58:03.527Z"
 slug: "using-your-values-to-raise-caring-responsible-resilient-children"
 wixId: "79f4cc02-da3e-4c6e-a0c7-e28e509b7138"
+thumbnail: "./images/9782fca5925289398c4ab48418cbc0b1213583mv2-mkd95r.png"
 ---
 
 ![](./images/9782fca5925289398c4ab48418cbc0b1213583mv2-mkd95r.png)

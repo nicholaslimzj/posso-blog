@@ -7,6 +7,7 @@ slug: "sleeping-habits-your-questions-answered"
 categories:
   - 219e0c9f-620f-4ed2-b626-c4103acf6a95
 wixId: "ba32b3b2-6f36-40b4-8f83-d8d5cef426e5"
+thumbnail: "./images/9782fc74a12315106547538e3b51048354d709mv2-kohtvd.jpg"
 ---
 
 ![](./images/9782fc74a12315106547538e3b51048354d709mv2-kohtvd.jpg)

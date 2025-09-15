@@ -5,6 +5,7 @@ date: "2023-05-24T01:59:13.588Z"
 lastModified: "2023-05-24T01:59:13.588Z"
 slug: "developing-problem-solving-and-critical-thinking-skills-in-preschoolers"
 wixId: "6e41e7d7-4dfe-4490-a68c-3f4dc49ae059"
+thumbnail: "./images/9782fc117a049d9aa74644a2f9b75cce6a10a7mv2-lromry.png"
 ---
 
 ![](./images/9782fc117a049d9aa74644a2f9b75cce6a10a7mv2-lromry.png)

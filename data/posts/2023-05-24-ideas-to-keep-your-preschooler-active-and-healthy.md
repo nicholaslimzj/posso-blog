@@ -5,6 +5,7 @@ date: "2023-05-24T02:26:10.017Z"
 lastModified: "2023-05-24T02:26:10.017Z"
 slug: "ideas-to-keep-your-preschooler-active-and-healthy"
 wixId: "0cf5c6d7-23d7-490e-bfb0-a9ba5c2c1f33"
+thumbnail: "./images/9782fc02aee584da77462f83e9183e6333b337mv2-dg2jdh.png"
 ---
 
 ![](./images/9782fc02aee584da77462f83e9183e6333b337mv2-dg2jdh.png)

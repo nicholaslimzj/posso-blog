@@ -5,6 +5,7 @@ date: "2023-05-24T08:52:35.206Z"
 lastModified: "2023-05-24T08:52:35.206Z"
 slug: "developing-social-skills-and-manners"
 wixId: "35b06297-9a6e-4aa1-bb66-70524645be69"
+thumbnail: "./images/9782fc615b40a9f41a405ea282b3509bd236d0mv2-8nhzgv.png"
 ---
 
 ![](./images/9782fc615b40a9f41a405ea282b3509bd236d0mv2-8nhzgv.png)

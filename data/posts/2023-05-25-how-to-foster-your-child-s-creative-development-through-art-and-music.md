@@ -5,6 +5,7 @@ date: "2023-05-25T04:15:58.636Z"
 lastModified: "2023-05-25T04:15:58.636Z"
 slug: "how-to-foster-your-child-s-creative-development-through-art-and-music"
 wixId: "5cf35111-853c-485d-a5db-4126dad7e1aa"
+thumbnail: "./images/9782fc03598b4362524dc185b7b8290962f005mv2-osek3y.jpg"
 ---
 
 ![](./images/9782fc03598b4362524dc185b7b8290962f005mv2-osek3y.jpg)

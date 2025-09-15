@@ -5,6 +5,7 @@ date: "2021-10-19T11:16:32.733Z"
 lastModified: "2021-10-19T11:16:32.733Z"
 slug: "indoor-activities-for-kids-at-home"
 wixId: "5f1896f1-2f22-4e44-bf53-0b2899e2214c"
+thumbnail: "./images/9782fcd804ed65b4ff4e2982e04d7bc9684ed9mv2-7z2o4i.jpg"
 ---
 
 ![](./images/9782fcd804ed65b4ff4e2982e04d7bc9684ed9mv2-7z2o4i.jpg)
